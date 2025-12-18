@@ -3,14 +3,14 @@
 Ce projet a été réalisé pour une association dans le cadre du challenge Digital sans Frontières en mars 2025.
 Il est présenté ici à des fins de démonstration technique.
 
-## ⚠️ Droits & images
+## Droits & images
 Les images originales ont été retirées pour des raisons de droits.
 
-## 🛠 Technologies
+## Technologies
 - HTML
 - CSS (Flexbox / Grid)
 - JavaScript
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 - Site vitrine responsive, accessible et écoconçu
 - Structure claire et accessible
