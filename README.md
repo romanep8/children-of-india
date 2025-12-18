@@ -14,3 +14,7 @@ Les images originales ont été retirées pour des raisons de droits.
 ## Objectifs du projet
 - Site vitrine responsive, accessible et écoconçu
 - Structure claire et accessible
+
+## Accès
+Le projet est consultable via GitHub Pages :
+👉 https://romanep8.github.io/children-of-india/
